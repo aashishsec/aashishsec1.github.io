@@ -38,7 +38,7 @@
 <!-- Add relevant content here -->
 
 
-## GitHub Stats
+### GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishsec&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishsec&layout=compact&theme=radical)
