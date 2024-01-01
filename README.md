@@ -5,7 +5,7 @@
 ## 👋 Hello, I'm Aashish, a Security Researcher!
 
 - 👀 I love CyberSecurity and Ethical Hacking and enjoy coding in Python.
-- 🌱 I’m interested in SOC and Security Analyst || Crypto and Blockchain.
+- 🌱 I’m interested in SOC and Security Analyst, Crypto and Blockchain.
 - 📫 I'm trying to find bugs.
 - 🔭 I’m currently working on Web Scraper, Review Scraper, and Image Scraper with Python.
 - ⚡ Fun fact: I play CTFs too.
