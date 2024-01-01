@@ -21,8 +21,7 @@
 
 - OSINT
 - Linux
-- Web Security
-- Network Security
+- Web and Network Security
 
 ### Cloud
 
