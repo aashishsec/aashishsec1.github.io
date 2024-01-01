@@ -19,6 +19,15 @@
 
 ### CyberSecurity
 
+- OSINT
+- Linux
+- Web Security
+- Network Security
+
+### Cloud
+
+- AWS
+
 ### Programming Languages
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
