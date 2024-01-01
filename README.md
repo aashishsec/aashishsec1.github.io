@@ -4,6 +4,10 @@
 
 ## 👋 Hello, I'm Aashish, a Security Researcher!
 
+![profilepic](https://github.com/aashishsec/aashishsec.github.io/assets/65489287/67f06eb2-d332-4a47-a7dc-294a34f7c3d3)
+
+
+
 - 👀 I love CyberSecurity and Ethical Hacking and enjoy coding in Python.
 - 🌱 I’m interested in SOC and Security Analyst, Crypto and Blockchain.
 - 📫 I'm trying to find bugs.
