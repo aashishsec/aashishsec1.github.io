@@ -1,6 +1,6 @@
 # AashishSec - Security Researcher
 
-![Profile Views](https://komarev.com/ghpvc/?username=aashishsec) <!-- Replace 'aashishsec' with your GitHub username -->
+![Profile Views](https://komarev.com/ghpvc/?username=aashishsec)
 
 ## 👋 Hello, I'm Aashish, a Security Researcher!
 
@@ -13,6 +13,8 @@
 ## 📫 How to reach me: [AashishSec](https://www.linkedin.com/in/bande-aashish/)
 
 ## Skills and Experience
+
+### CyberSecurity
 
 ### Programming Languages
 
@@ -35,8 +37,10 @@
 
 <!-- Add relevant content here -->
 
----
+
 ## GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aashishsec&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aashishsec&layout=compact&theme=radical)
+
+---
