@@ -1,4 +1,4 @@
-# AashishSec - Security Researcher
+# AashishSec ఆశిష్  - Security Researcher
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashishsec)
 
