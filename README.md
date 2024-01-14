@@ -5,9 +5,11 @@
 ## Navigation
 
 - [Projects](https://aashishsec.github.io/MyPythonProjects/)
-- [Cybesecurity Tools](#section-2)
+- [Cybersecurity Tools](https://github.com/aashishsec/Cybersecurity-Tools)
 - [My Google Docks](https://aashishsec.github.io/docks/)
 - [AI/ML Projects]()
+- [CTF WriteUps](https://github.com/aashishsec/WriteUps)
+- [WriteUps](https://medium.com/@aashishsec)
 
 
 ## 👋 Hello, I'm Aashish, a Security Researcher!
