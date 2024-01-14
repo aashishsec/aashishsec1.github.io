@@ -5,8 +5,9 @@
 ## Navigation
 
 - [Projects](https://aashishsec.github.io/MyPythonProjects/)
-- [Tools](#section-2)
+- [Cybesecurity Tools](#section-2)
 - [My Google Docks](https://aashishsec.github.io/docks/)
+- [ML Projects]()
 
 
 ## 👋 Hello, I'm Aashish, a Security Researcher!
