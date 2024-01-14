@@ -2,6 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashishsec)
 
+## Navigation
+
+- [Projects](https://aashishsec.github.io/MyPythonProjects/)
+- [Tools](#section-2)
+
+
 ## 👋 Hello, I'm Aashish, a Security Researcher!
 
 
