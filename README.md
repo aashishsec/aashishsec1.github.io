@@ -7,11 +7,10 @@
 - [Projects](https://aashishsec.github.io/MyPythonProjects/)
 - [Cybesecurity Tools](#section-2)
 - [My Google Docks](https://aashishsec.github.io/docks/)
-- [ML Projects]()
+- [AI/ML Projects]()
 
 
 ## 👋 Hello, I'm Aashish, a Security Researcher!
-
 
 <img src="https://github.com/aashishsec/aashishsec.github.io/assets/65489287/67f06eb2-d332-4a47-a7dc-294a34f7c3d3" alt="AashishSec" width="360" height="360">
 
