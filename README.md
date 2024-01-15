@@ -32,7 +32,7 @@
 </head>
 <body>
 <nav>
-    <a href="https://aashishsec.github.io/MyPythonProjects/">Projects</a>
+    <a href="https://aashishsec.github.io/MyPythonProjects/">PyProjects</a>
     <a href="https://github.com/aashishsec/Cybersecurity-Tools">Cybersecurity Tools</a>
     <a href="https://aashishsec.github.io/docks/">My Google Docks</a>
     <a href="#">AI/ML Projects</a>
