@@ -2,15 +2,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashishsec)
 
-## Navigation
-
-- [Projects](https://aashishsec.github.io/MyPythonProjects/)
-- [Cybersecurity Tools](https://github.com/aashishsec/Cybersecurity-Tools)
-- [My Google Docks](https://aashishsec.github.io/docks/)
-- [AI/ML Projects]()
-- [CTF WriteUps](https://github.com/aashishsec/WriteUps)
-- [WriteUps](https://medium.com/@aashishsec)
-
+<nav>
+    <a href="https://aashishsec.github.io/MyPythonProjects/">Projects</a>
+    <a href="https://github.com/aashishsec/Cybersecurity-Tools">Cybersecurity Tools</a>
+    <a href="https://aashishsec.github.io/docks/">My Google Docks</a>
+    <a href="#">AI/ML Projects</a>
+    <a href="https://github.com/aashishsec/WriteUps">CTF WriteUps</a>
+    <a href="https://medium.com/@aashishsec">WriteUps</a>
+</nav>
 
 ## 👋 Hello, I'm Aashish, a Security Researcher!
 
