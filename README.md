@@ -1,4 +1,3 @@
-# AashishSec ఆశిష్  - Security Researcher
 ![Profile Views](https://komarev.com/ghpvc/?username=aashishsec)
 
 <html lang="en">
@@ -42,7 +41,7 @@
 </body>
 </html>
 
-## 👋 Hello, I'm Aashish, a Security Researcher!
+## 👋 Hello, I'm AashishSec ఆశిష్  - Security Researcher!
 
 <img src="https://github.com/aashishsec/aashishsec.github.io/assets/65489287/67f06eb2-d332-4a47-a7dc-294a34f7c3d3" alt="AashishSec" width="360" height="360">
 
@@ -72,10 +71,9 @@
 
 ### Programming Languages
 
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
 
 ### Frontend Development
 
