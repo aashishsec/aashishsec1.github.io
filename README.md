@@ -32,6 +32,9 @@
 - OSINT
 - Linux
 - Web and Network Security
+- SOC
+- Malware Analysis
+- Reverse Engineering
 
 ### Cloud
 
