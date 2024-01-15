@@ -2,6 +2,35 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aashishsec)
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        nav {
+            background-color: #333;
+            overflow: hidden;
+        }
+        nav a {
+            float: left;
+            display: block;
+            color: white;
+            text-align: center;
+            padding: 14px 16px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+    </style>
+</head>
+<body>
 <nav>
     <a href="https://aashishsec.github.io/MyPythonProjects/">Projects</a>
     <a href="https://github.com/aashishsec/Cybersecurity-Tools">Cybersecurity Tools</a>
@@ -10,6 +39,7 @@
     <a href="https://github.com/aashishsec/WriteUps">CTF WriteUps</a>
     <a href="https://medium.com/@aashishsec">WriteUps</a>
 </nav>
+</body>
 
 ## 👋 Hello, I'm Aashish, a Security Researcher!
 
