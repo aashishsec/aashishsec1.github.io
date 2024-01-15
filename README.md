@@ -32,10 +32,10 @@
 <body>
 <nav>
     <a href="https://aashishsec.github.io/MyPythonProjects/">PyProjects</a>
-    <a href="https://github.com/aashishsec/Cybersecurity-Tools">Cybersecurity Tools</a>
+    <a href="https://aashishsec.github.io/Cybersecurity-Tools/">Cybersecurity Tools</a>
     <a href="https://aashishsec.github.io/docks/">My Google Docks</a>
     <a href="#">AI/ML Projects</a>
-    <a href="https://github.com/aashishsec/WriteUps">CTF WriteUps</a>
+    <a href="https://aashishsec.github.io/WriteUps">CTF WriteUps</a>
     <a href="https://medium.com/@aashishsec">WriteUps</a>
 </nav>
 </body>
