@@ -28,9 +28,9 @@
             color: black;
         }
         .circular-img {
-            width: 150px; /* Set the width and height to desired size */
-            height: 150px;
-            border-radius: 50%; /* Make the border-radius 50% to create a circle */
+            width: 480px; /* Set the width and height to desired size */
+            height: 480px;
+            border-radius: 25%; /* Make the border-radius 50% to create a circle */
             overflow: hidden; /* Hide overflow to keep it circular */
         }
     </style>
