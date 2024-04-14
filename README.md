@@ -30,7 +30,7 @@
         .circular-img {
             width: 480px; /* Set the width and height to desired size */
             height: 480px;
-            border-radius: 25%; /* Make the border-radius 50% to create a circle */
+            border-radius: 50%; /* Make the border-radius 50% to create a circle */
             overflow: hidden; /* Hide overflow to keep it circular */
         }
     </style>
