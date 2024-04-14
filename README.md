@@ -27,6 +27,12 @@
             background-color: #ddd;
             color: black;
         }
+        .circular-img {
+            width: 150px; /* Set the width and height to desired size */
+            height: 150px;
+            border-radius: 50%; /* Make the border-radius 50% to create a circle */
+            overflow: hidden; /* Hide overflow to keep it circular */
+        }
     </style>
 </head>
 <body>
@@ -44,8 +50,10 @@
 ---
 ## 👋 Hello, I'm AashishSec ఆశిష్  - Security Researcher!
 
-<img src="https://github.com/aashishsec/aashishsec.github.io/assets/65489287/67f06eb2-d332-4a47-a7dc-294a34f7c3d3" alt="AashishSec" width="360" height="360">
 
+<div class="circular-img">
+  <img src="https://github.com/aashishsec/aashishsec.github.io/assets/65489287/67f06eb2-d332-4a47-a7dc-294a34f7c3d3" alt="AashishSec" width="360" height="360" alt="Circular Image">>
+</div>
 
 - 👀 I love CyberSecurity and Ethical Hacking and enjoy coding in Python.
 - 🌱 I’m interested in SOC and Security Analyst, Crypto and Blockchain.
